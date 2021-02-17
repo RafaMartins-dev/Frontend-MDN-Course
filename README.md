@@ -6,8 +6,9 @@
 
 <h2>ℹ️ This repository contains all the assessments of the course<h2>
 
-<ol style="font-size:16px">
+<ol>
   <li><a href="/assessment01" title="assessment 1">Marking up a letter</a></li>
   <li><a href="/assessment02" title="assessment 2">Structuring a page of content</a></li>
-  <li><a href="/assessment03" title="assessment 3">Mozilla splash page</a></li>
+  <li><a href="/assessment03" title="assessment 3">Mozilla splash page (multimedia / embed)</a></li>
+  <li><a href="/assessment04" title="assessment 4">Structuring planet data (table)</a></li>
 </ol>
