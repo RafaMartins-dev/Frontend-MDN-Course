@@ -1,0 +1,125 @@
+/* General setup */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+  min-width: 1000px;
+  max-width: 1400px;
+}
+
+/* Layout */
+
+section {
+  float: left;
+  width: 50%;
+}
+
+aside {
+  float: left;
+  width: 30%;
+}
+
+nav {
+  float: left;
+  width: 20%;
+}
+
+footer {
+  clear: both;
+}
+
+header,
+section,
+aside,
+nav,
+footer {
+  padding: 20px;
+}
+
+/* header and footer */
+
+header,
+footer {
+  border-top: 5px solid #a66;
+  border-bottom: 5px solid #a66;
+  text-align: center;
+}
+
+/* WRITE YOUR CODE BELOW HERE */
+
+html {
+  font-family: "Merriweather", serif;
+  font-size: 10px;
+  line-height: 2rem;
+  letter-spacing: 0.15rem;
+  word-spacing: 0.15rem;
+}
+
+h1,
+h2 {
+  font-family: "Montserrat", sans-serif;
+  letter-spacing: 0.3rem;
+}
+
+h1 {
+  font-size: 5rem;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+p,
+a,
+li {
+  font-size: 1.4rem;
+}
+
+a {
+  outline: none;
+}
+
+a:link {
+  color: #a66;
+}
+
+a:visited {
+  color: rgb(129, 78, 78);
+}
+
+a:focus {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a[href*="http"] {
+  background: url("media/external-link-52.png") no-repeat 100% 0;
+  background-size: 12px 12px;
+  padding-right: 14px;
+}
+
+nav ul {
+  list-style: none;
+  outline: none;
+}
+
+nav ul li {
+  padding: 2rem 0;
+  text-align: center;
+  border: 1px solid #a66;
+  margin-bottom: 3rem;
+}
+
+nav ul li:last-child {
+  margin-bottom: 0;
+}
+
+nav ul li a {
+  text-decoration: none;
+}
