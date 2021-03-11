@@ -12,4 +12,5 @@
   <li><a href="/assessment03" title="assessment 3">Mozilla splash page (multimedia / embed)</a></li>
   <li><a href="/assessment04" title="assessment 4">Structuring planet data (table)</a></li>
   <li><a href="/assessment05" title="assessment 5">Typesetting a community school homepage(text styling)</a></li>
+  <li><a href="/assessment06" title="assessment 6">Fundamental layout comprehension(CSS layout)</a></li>
 </ol>
