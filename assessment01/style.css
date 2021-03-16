@@ -30,3 +30,15 @@ dt,
 address {
   line-height: 1.5;
 }
+
+/* || HEADER - not a part of the assessment  */
+
+header {
+  text-align: center;
+  padding: 1rem;
+  background: #1d1d1d;
+}
+
+header a {
+  color: white;
+}
