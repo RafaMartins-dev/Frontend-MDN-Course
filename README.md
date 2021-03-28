@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" alt="keep coding gif" width="480" height="144">
 </p>
 
-<h2>ℹ️ This repository contains all the Assessments of the course<h2>
+<h2>ℹ️ This Repository contains all the Assessments of the course<h2>
 <p>Fundamentals are important, probably the most important</p>
 
 <ol>
